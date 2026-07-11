@@ -8,5 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
