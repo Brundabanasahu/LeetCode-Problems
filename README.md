@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0796-rotate-string) |
 ## Array
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0344-reverse-string](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
