@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0485-max-consecutive-ones](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0704-binary-search) |
 ## Trie
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
