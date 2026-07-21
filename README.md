@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 ## Design
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
