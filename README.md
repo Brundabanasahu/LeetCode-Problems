@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0485-max-consecutive-ones](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -108,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
