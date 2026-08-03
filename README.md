@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -159,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
