@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0125-valid-palindrome) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0069-sqrtx) |
