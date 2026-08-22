@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 ## Design
