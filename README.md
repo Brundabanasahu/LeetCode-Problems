@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
@@ -161,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
