@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Brundabanasahu/LeetCode-Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Trie
 |  |
 | ------- |
